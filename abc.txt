@@ -1,4 +1,8 @@
+
 ;jfldikdlsjakdjkldsdksldjikdlskd
+=======
+;jakdjkldsdksldjikdlskd
+>>>>>>> Stashed changes
 klfd;sa
 jkdl;sa
 akfldjsklj
