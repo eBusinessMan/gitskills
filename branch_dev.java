@@ -4,4 +4,5 @@ public class Dev{
   public void count(){}
 
   public void devApple(){}
+  public void apple2(){}
 }
