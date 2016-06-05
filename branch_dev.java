@@ -3,5 +3,5 @@ public class Dev{
 
   public void count(){}
 
-  public void apple(){}
+  public void apple2(){}
 }
